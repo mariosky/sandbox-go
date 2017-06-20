@@ -10,10 +10,7 @@ It includes:
 ## Working with this container
 
 Build
-´´´
-	docker build -t mariosky/sandbox-go sandbox-go/
-´´´
+`docker build -t mariosky/sandbox-go sandbox-go/`
+
 Run Interactively
-´´´ 
-	docker run -t -i mariosky/sandbox-go /bin/sh
-´´
+`docker run -t -i mariosky/sandbox-go /bin/sh`
