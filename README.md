@@ -1,6 +1,6 @@
 ## sandbox-go
 
-A docker container based on alpine (golang:alpine) for running experiments in sandbox.
+A docker container based on alpine (golang:alpine) for running exercises in sandbox.
 
 It includes:
 
